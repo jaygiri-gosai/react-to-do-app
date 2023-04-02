@@ -1,0 +1,38 @@
+{
+  "name": "react-to-do-list",
+  "version": "1.0.0",
+  "description": "A complete to-do application with all features.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaygiri-gosai/react-to-do-app.git"
+  },
+  "keywords": [
+    "React",
+    "State",
+    "Components",
+    "React Router DOM",
+    "Localstorage",
+    "useEffect",
+    "useState"
+  ],
+  "author": "Jay Gosai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaygiri-gosai/react-to-do-app/issues"
+  },
+  "homepage": "https://github.com/jaygiri-gosai/react-to-do-app#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
